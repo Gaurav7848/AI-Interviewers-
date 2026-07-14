@@ -29,6 +29,7 @@ const Dashboard: React.FC = () => {
         navigate("/login");
       }
     };
+    
     const fetchInterviews = async () => {
       try {
         const response = await getAllInterviews();
