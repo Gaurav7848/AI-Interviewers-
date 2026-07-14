@@ -76,4 +76,3 @@ serverless deploy
 
 
 
-Pull requests are welcome! 🚀
